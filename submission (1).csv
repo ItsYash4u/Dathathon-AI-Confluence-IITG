@@ -1,0 +1,864 @@
+ID,class
+1,Auto Rickshaws
+10,Motorcycles
+100,Motorcycles
+101,Trucks
+102,Trucks
+103,Motorcycles
+104,Bicycles
+105,Trucks
+106,Motorcycles
+107,Auto Rickshaws
+108,Motorcycles
+109,Motorcycles
+11,Trains
+110,Trucks
+111,Buses
+112,Auto Rickshaws
+113,Auto Rickshaws
+114,Cars
+115,Auto Rickshaws
+116,Motorcycles
+117,Cars
+118,Auto Rickshaws
+119,Auto Rickshaws
+12,Auto Rickshaws
+120,Trains
+121,Trucks
+122,Trucks
+123,Trucks
+124,Auto Rickshaws
+125,Buses
+126,Auto Rickshaws
+127,Trains
+128,Buses
+129,Motorcycles
+13,Auto Rickshaws
+130,Auto Rickshaws
+131,Auto Rickshaws
+132,Trains
+133,Auto Rickshaws
+134,Auto Rickshaws
+135,Auto Rickshaws
+136,Trains
+137,Buses
+138,Motorcycles
+139,Motorcycles
+14,Motorcycles
+140,Buses
+141,Auto Rickshaws
+142,Motorcycles
+143,Auto Rickshaws
+144,Auto Rickshaws
+145,Auto Rickshaws
+146,Auto Rickshaws
+147,Auto Rickshaws
+148,Buses
+149,Auto Rickshaws
+15,Auto Rickshaws
+150,Trains
+151,Trains
+152,Auto Rickshaws
+153,Auto Rickshaws
+154,Auto Rickshaws
+155,Trains
+156,Auto Rickshaws
+157,Motorcycles
+158,Buses
+159,Cars
+16,Auto Rickshaws
+160,Auto Rickshaws
+161,Buses
+162,Trucks
+163,Auto Rickshaws
+164,Trucks
+165,Trucks
+166,Trains
+167,Auto Rickshaws
+168,Auto Rickshaws
+169,Trucks
+17,Auto Rickshaws
+170,Buses
+171,Auto Rickshaws
+172,Trucks
+173,Buses
+174,Auto Rickshaws
+175,Buses
+176,Auto Rickshaws
+177,Auto Rickshaws
+178,Auto Rickshaws
+179,Trucks
+18,Auto Rickshaws
+180,Auto Rickshaws
+181,Trains
+182,Auto Rickshaws
+183,Buses
+184,Cars
+185,Trucks
+186,Auto Rickshaws
+187,Buses
+188,Auto Rickshaws
+189,Buses
+19,Auto Rickshaws
+190,Cars
+191,Bicycles
+192,Bicycles
+193,Bicycles
+194,Bicycles
+195,Bicycles
+196,Bicycles
+197,Bicycles
+198,Bicycles
+199,Bicycles
+2,Auto Rickshaws
+20,Auto Rickshaws
+200,Bicycles
+201,Bicycles
+202,Bicycles
+203,Bicycles
+204,Bicycles
+205,Bicycles
+206,Bicycles
+207,Bicycles
+208,Bicycles
+209,Bicycles
+21,Auto Rickshaws
+210,Bicycles
+211,Bicycles
+212,Bicycles
+213,Bicycles
+214,Bicycles
+215,Bicycles
+216,Bicycles
+217,Bicycles
+218,Bicycles
+219,Bicycles
+22,Auto Rickshaws
+220,Bicycles
+221,Trains
+222,Bicycles
+223,Bicycles
+224,Bicycles
+225,Bicycles
+226,Bicycles
+227,Bicycles
+228,Bicycles
+229,Bicycles
+23,Cars
+230,Bicycles
+231,Bicycles
+232,Buses
+233,Bicycles
+234,Motorcycles
+235,Bicycles
+236,Bicycles
+237,Bicycles
+238,Bicycles
+239,Bicycles
+24,Bicycles
+240,Bicycles
+241,Bicycles
+242,Bicycles
+243,Bicycles
+244,Bicycles
+245,Motorcycles
+246,Bicycles
+247,Bicycles
+248,Bicycles
+249,Bicycles
+25,Auto Rickshaws
+250,Cars
+251,Motorcycles
+252,Bicycles
+253,Bicycles
+254,Bicycles
+255,Bicycles
+256,Bicycles
+257,Motorcycles
+258,Bicycles
+259,Bicycles
+26,Trains
+260,Bicycles
+261,Bicycles
+262,Bicycles
+263,Bicycles
+264,Bicycles
+265,Bicycles
+266,Bicycles
+267,Bicycles
+268,Bicycles
+269,Bicycles
+27,Auto Rickshaws
+270,Bicycles
+271,Bicycles
+272,Bicycles
+273,Bicycles
+274,Bicycles
+275,Bicycles
+276,Bicycles
+277,Bicycles
+278,Bicycles
+279,Bicycles
+28,Auto Rickshaws
+280,Bicycles
+281,Bicycles
+282,Bicycles
+283,Bicycles
+284,Bicycles
+285,Bicycles
+286,Bicycles
+287,Bicycles
+288,Bicycles
+289,Bicycles
+29,Auto Rickshaws
+290,Bicycles
+291,Bicycles
+292,Bicycles
+293,Bicycles
+294,Bicycles
+295,Bicycles
+296,Bicycles
+297,Bicycles
+298,Bicycles
+299,Bicycles
+3,Auto Rickshaws
+30,Auto Rickshaws
+300,Bicycles
+301,Bicycles
+302,Bicycles
+303,Bicycles
+304,Bicycles
+305,Bicycles
+306,Bicycles
+307,Bicycles
+308,Motorcycles
+309,Bicycles
+31,Trains
+310,Bicycles
+311,Bicycles
+312,Auto Rickshaws
+313,Bicycles
+314,Bicycles
+315,Auto Rickshaws
+316,Bicycles
+317,Bicycles
+318,Trucks
+319,Bicycles
+32,Auto Rickshaws
+320,Bicycles
+321,Bicycles
+322,Bicycles
+323,Bicycles
+324,Bicycles
+325,Bicycles
+326,Bicycles
+327,Bicycles
+328,Bicycles
+329,Motorcycles
+33,Auto Rickshaws
+330,Bicycles
+331,Bicycles
+332,Bicycles
+333,Bicycles
+334,Bicycles
+335,Auto Rickshaws
+336,Bicycles
+337,Bicycles
+338,Bicycles
+339,Bicycles
+34,Cars
+340,Bicycles
+341,Bicycles
+342,Bicycles
+343,Auto Rickshaws
+344,Bicycles
+345,Bicycles
+346,Motorcycles
+347,Bicycles
+348,Bicycles
+349,Bicycles
+35,Auto Rickshaws
+350,Bicycles
+351,Motorcycles
+352,Cars
+353,Buses
+354,Trucks
+355,Trucks
+356,Buses
+357,Auto Rickshaws
+358,Trucks
+359,Auto Rickshaws
+36,Cars
+360,Cars
+361,Trucks
+362,Buses
+363,Cars
+364,Auto Rickshaws
+365,Buses
+366,Buses
+367,Buses
+368,Buses
+369,Buses
+37,Auto Rickshaws
+370,Bicycles
+371,Auto Rickshaws
+372,Trucks
+373,Buses
+374,Auto Rickshaws
+375,Buses
+376,Trucks
+377,Motorcycles
+378,Cars
+379,Buses
+38,Auto Rickshaws
+380,Cars
+381,Motorcycles
+382,Cars
+383,Auto Rickshaws
+384,Auto Rickshaws
+385,Trains
+386,Cars
+387,Cars
+388,Motorcycles
+389,Cars
+39,Motorcycles
+390,Cars
+391,Auto Rickshaws
+392,Cars
+393,Cars
+394,Cars
+395,Cars
+396,Cars
+397,Cars
+398,Motorcycles
+399,Motorcycles
+4,Motorcycles
+40,Auto Rickshaws
+400,Cars
+401,Motorcycles
+402,Cars
+403,Cars
+404,Cars
+405,Cars
+406,Motorcycles
+407,Cars
+408,Cars
+409,Cars
+41,Auto Rickshaws
+410,Cars
+411,Cars
+412,Cars
+413,Cars
+414,Cars
+415,Cars
+416,Cars
+417,Motorcycles
+418,Cars
+419,Cars
+42,Cars
+420,Cars
+421,Cars
+422,Cars
+423,Cars
+424,Cars
+425,Cars
+426,Cars
+427,Cars
+428,Motorcycles
+429,Trains
+43,Auto Rickshaws
+430,Cars
+431,Cars
+432,Cars
+433,Auto Rickshaws
+434,Cars
+435,Cars
+436,Cars
+437,Cars
+438,Cars
+439,Trucks
+44,Cars
+440,Cars
+441,Cars
+442,Cars
+443,Trucks
+444,Cars
+445,Cars
+446,Cars
+447,Auto Rickshaws
+448,Cars
+449,Trucks
+45,Auto Rickshaws
+450,Cars
+451,Motorcycles
+452,Cars
+453,Cars
+454,Cars
+455,Motorcycles
+456,Cars
+457,Cars
+458,Motorcycles
+459,Cars
+46,Bicycles
+460,Cars
+461,Cars
+462,Cars
+463,Cars
+464,Cars
+465,Cars
+466,Trains
+467,Cars
+468,Trains
+469,Cars
+47,Motorcycles
+470,Cars
+471,Cars
+472,Cars
+473,Cars
+474,Motorcycles
+475,Cars
+476,Cars
+477,Motorcycles
+478,Cars
+479,Cars
+48,Auto Rickshaws
+480,Bicycles
+481,Cars
+482,Cars
+483,Cars
+484,Cars
+485,Cars
+486,Cars
+487,Cars
+488,Cars
+489,Cars
+49,Buses
+490,Cars
+491,Cars
+492,Cars
+493,Cars
+494,Motorcycles
+495,Cars
+496,Cars
+497,Motorcycles
+498,Cars
+499,Motorcycles
+5,Auto Rickshaws
+50,Auto Rickshaws
+500,Cars
+501,Motorcycles
+502,Cars
+503,Cars
+504,Cars
+505,Motorcycles
+506,Motorcycles
+507,Motorcycles
+508,Motorcycles
+509,Motorcycles
+51,Trucks
+510,Motorcycles
+511,Motorcycles
+512,Motorcycles
+513,Motorcycles
+514,Motorcycles
+515,Motorcycles
+516,Motorcycles
+517,Motorcycles
+518,Motorcycles
+519,Motorcycles
+52,Auto Rickshaws
+520,Motorcycles
+521,Motorcycles
+522,Auto Rickshaws
+523,Motorcycles
+524,Motorcycles
+525,Motorcycles
+526,Motorcycles
+527,Motorcycles
+528,Motorcycles
+529,Trains
+53,Buses
+530,Cars
+531,Motorcycles
+532,Motorcycles
+533,Motorcycles
+534,Motorcycles
+535,Motorcycles
+536,Motorcycles
+537,Motorcycles
+538,Motorcycles
+539,Motorcycles
+54,Auto Rickshaws
+540,Motorcycles
+541,Motorcycles
+542,Motorcycles
+543,Motorcycles
+544,Motorcycles
+545,Motorcycles
+546,Motorcycles
+547,Trains
+548,Motorcycles
+549,Motorcycles
+55,Auto Rickshaws
+550,Motorcycles
+551,Motorcycles
+552,Motorcycles
+553,Motorcycles
+554,Motorcycles
+555,Motorcycles
+556,Motorcycles
+557,Motorcycles
+558,Motorcycles
+559,Motorcycles
+56,Cars
+560,Motorcycles
+561,Motorcycles
+562,Motorcycles
+563,Motorcycles
+564,Cars
+565,Motorcycles
+566,Motorcycles
+567,Motorcycles
+568,Motorcycles
+569,Motorcycles
+57,Auto Rickshaws
+570,Motorcycles
+571,Motorcycles
+572,Motorcycles
+573,Motorcycles
+574,Motorcycles
+575,Motorcycles
+576,Motorcycles
+577,Motorcycles
+578,Motorcycles
+579,Motorcycles
+58,Bicycles
+580,Cars
+581,Trains
+582,Motorcycles
+583,Cars
+584,Trains
+585,Motorcycles
+586,Motorcycles
+587,Motorcycles
+588,Trains
+589,Motorcycles
+59,Auto Rickshaws
+590,Motorcycles
+591,Motorcycles
+592,Motorcycles
+593,Motorcycles
+594,Motorcycles
+595,Motorcycles
+596,Motorcycles
+597,Motorcycles
+598,Motorcycles
+599,Motorcycles
+6,Auto Rickshaws
+60,Auto Rickshaws
+600,Motorcycles
+601,Motorcycles
+602,Motorcycles
+603,Motorcycles
+604,Motorcycles
+605,Motorcycles
+606,Motorcycles
+607,Bicycles
+608,Motorcycles
+609,Motorcycles
+61,Auto Rickshaws
+610,Motorcycles
+611,Motorcycles
+612,Motorcycles
+613,Motorcycles
+614,Motorcycles
+615,Motorcycles
+616,Motorcycles
+617,Motorcycles
+618,Motorcycles
+619,Motorcycles
+62,Auto Rickshaws
+620,Motorcycles
+621,Motorcycles
+622,Motorcycles
+623,Motorcycles
+624,Motorcycles
+625,Motorcycles
+626,Motorcycles
+627,Cars
+628,Motorcycles
+629,Motorcycles
+63,Auto Rickshaws
+630,Motorcycles
+631,Motorcycles
+632,Motorcycles
+633,Motorcycles
+634,Motorcycles
+635,Motorcycles
+636,Motorcycles
+637,Motorcycles
+638,Motorcycles
+639,Motorcycles
+64,Buses
+640,Motorcycles
+641,Motorcycles
+642,Motorcycles
+643,Motorcycles
+644,Motorcycles
+645,Trains
+646,Motorcycles
+647,Motorcycles
+648,Motorcycles
+649,Motorcycles
+65,Auto Rickshaws
+650,Motorcycles
+651,Motorcycles
+652,Motorcycles
+653,Motorcycles
+654,Motorcycles
+655,Motorcycles
+656,Motorcycles
+657,Motorcycles
+658,Motorcycles
+659,Motorcycles
+66,Motorcycles
+660,Motorcycles
+661,Motorcycles
+662,Motorcycles
+663,Motorcycles
+664,Motorcycles
+665,Trains
+666,Trains
+667,Cars
+668,Trains
+669,Cars
+67,Bicycles
+670,Trains
+671,Auto Rickshaws
+672,Trains
+673,Motorcycles
+674,Trains
+675,Cars
+676,Auto Rickshaws
+677,Motorcycles
+678,Trains
+679,Cars
+68,Auto Rickshaws
+680,Trains
+681,Trains
+682,Trains
+683,Trains
+684,Trains
+685,Trains
+686,Trains
+687,Auto Rickshaws
+688,Cars
+689,Cars
+69,Trains
+690,Cars
+691,Trains
+692,Trains
+693,Trains
+694,Trains
+695,Trains
+696,Motorcycles
+697,Trains
+698,Trains
+699,Auto Rickshaws
+7,Trucks
+70,Auto Rickshaws
+700,Trains
+701,Auto Rickshaws
+702,Trains
+703,Trains
+704,Bicycles
+705,Motorcycles
+706,Cars
+707,Cars
+708,Trains
+709,Motorcycles
+71,Auto Rickshaws
+710,Trains
+711,Motorcycles
+712,Cars
+713,Motorcycles
+714,Trains
+715,Trains
+716,Cars
+717,Cars
+718,Trains
+719,Trains
+72,Auto Rickshaws
+720,Cars
+721,Trains
+722,Auto Rickshaws
+723,Motorcycles
+724,Trains
+725,Trains
+726,Trains
+727,Trains
+728,Trains
+729,Trains
+73,Trains
+730,Trains
+731,Auto Rickshaws
+732,Motorcycles
+733,Trains
+734,Trains
+735,Trains
+736,Trains
+737,Trains
+738,Auto Rickshaws
+739,Trains
+74,Auto Rickshaws
+740,Trains
+741,Cars
+742,Trains
+743,Trains
+744,Trains
+745,Motorcycles
+746,Trains
+747,Motorcycles
+748,Cars
+749,Trains
+75,Trucks
+750,Cars
+751,Motorcycles
+752,Trains
+753,Trains
+754,Auto Rickshaws
+755,Trains
+756,Trains
+757,Trains
+758,Motorcycles
+759,Trains
+76,Auto Rickshaws
+760,Trains
+761,Cars
+762,Trains
+763,Trains
+764,Trains
+765,Trains
+766,Auto Rickshaws
+767,Trains
+768,Trains
+769,Trains
+77,Cars
+770,Trains
+771,Trains
+772,Cars
+773,Motorcycles
+774,Motorcycles
+775,Trains
+776,Cars
+777,Trains
+778,Motorcycles
+779,Motorcycles
+78,Auto Rickshaws
+780,Motorcycles
+781,Bicycles
+782,Trains
+783,Trains
+784,Trains
+785,Trains
+786,Auto Rickshaws
+787,Trucks
+788,Trains
+789,Bicycles
+79,Bicycles
+790,Trains
+791,Bicycles
+792,Trains
+793,Trains
+794,Trains
+795,Motorcycles
+796,Cars
+797,Auto Rickshaws
+798,Auto Rickshaws
+799,Trains
+8,Auto Rickshaws
+80,Auto Rickshaws
+800,Motorcycles
+801,Cars
+802,Trains
+803,Motorcycles
+804,Trains
+805,Trains
+806,Cars
+807,Trains
+808,Trains
+809,Motorcycles
+81,Cars
+810,Cars
+811,Trains
+812,Trains
+813,Trains
+814,Auto Rickshaws
+815,Trains
+816,Trains
+817,Trains
+818,Trains
+819,Cars
+82,Auto Rickshaws
+820,Trains
+821,Motorcycles
+822,Trains
+823,Trains
+824,Auto Rickshaws
+825,Buses
+826,Buses
+827,Buses
+828,Trains
+829,Trucks
+83,Auto Rickshaws
+830,Auto Rickshaws
+831,Trucks
+832,Trucks
+833,Trucks
+834,Trains
+835,Motorcycles
+836,Cars
+837,Cars
+838,Auto Rickshaws
+839,Cars
+84,Bicycles
+840,Trucks
+841,Trucks
+842,Trucks
+843,Trucks
+844,Auto Rickshaws
+845,Trucks
+846,Trucks
+847,Auto Rickshaws
+848,Bicycles
+849,Auto Rickshaws
+85,Motorcycles
+850,Bicycles
+851,Auto Rickshaws
+852,Motorcycles
+853,Motorcycles
+854,Auto Rickshaws
+855,Auto Rickshaws
+856,Auto Rickshaws
+857,Buses
+858,Auto Rickshaws
+859,Buses
+86,Auto Rickshaws
+860,Buses
+861,Buses
+862,Trucks
+863,Trucks
+87,Trucks
+88,Trains
+89,Auto Rickshaws
+9,Buses
+90,Auto Rickshaws
+91,Auto Rickshaws
+92,Trains
+93,Trucks
+94,Trucks
+95,Auto Rickshaws
+96,Auto Rickshaws
+97,Trucks
+98,Auto Rickshaws
+99,Auto Rickshaws
